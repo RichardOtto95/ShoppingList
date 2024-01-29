@@ -1,16 +1,7 @@
-# shopping_list
+# Shopping List
 
 A new Flutter project.
 
-## Getting Started
+There you can make a lis of what you need to buy or for comunicate anyone what you house need to by. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app use Firebase Database for storage data in cloud.
